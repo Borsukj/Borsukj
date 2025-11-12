@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Borsukj or Jakub
 - 👀 I’m interested in Computers and tech
-- 🌱 I’m currently learning games design and programming
 
 <!---
 Borsukj/Borsukj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
